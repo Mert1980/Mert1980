@@ -2,7 +2,7 @@
 
 ## I am a JavaEE Developer(OCA-8) && FullStack Developer
 
-### My portfolio website ==> https://mert1980.github.io/Mert_Portfolio/
+### My portfolio website (click) => https://mert1980.github.io/Mert_Portfolio/
 
 ### 🔭 I’m currently working on Fooda (Open-source Project)
 - 🥅 2021 Goals: Contribute more to open source projects and pass Java OCP-11
