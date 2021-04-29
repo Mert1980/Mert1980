@@ -31,17 +31,8 @@
 <img  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
 <img  height=26 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
 
-<br />
-<br />
-
-
 ## <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=Mert1980&theme=dark" >
-
-
-<br />
-<br />
-
 
 ## <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mert1980&layout=compact&theme=dark" >
