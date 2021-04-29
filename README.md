@@ -9,9 +9,9 @@
 ![](https://komarev.com/ghpvc/?username=Mert1980)
 
 ### Languages and Tools:
-<img alt="java" height=26px src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
-<img alt="jpa" height=26px src="https://images.tute.io/tute/topic/jpa.png"/>
-<img alt="spring" height=26px src="https://image.pngaaa.com/579/2459579-middle.png"/>
+<img align="left" alt="java" height=26px src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"/>
+<img align="left" alt="jpa" height=26px src="https://images.tute.io/tute/topic/jpa.png"/>
+<img align="left" alt="spring" height=26px src="https://image.pngaaa.com/579/2459579-middle.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
