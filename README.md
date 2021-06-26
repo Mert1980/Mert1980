@@ -6,7 +6,7 @@
 
 ### 🔭 I’m currently working on Fooda (Open-source Project)
 - 🥅 2021 Goals: Contribute more to open source projects and pass Java OCP-11
-- ⚡ Fun fact: I love to play tennis and jogging in the nature
+- ⚡ Fun fact: I will celebrate my first Java Developer Position in Java Island drinking original Java Koffie ;)
 
 ![](https://komarev.com/ghpvc/?username=Mert1980)
 
