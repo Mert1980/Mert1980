@@ -1,6 +1,6 @@
 # Hi there 👋 I am Mert! 
 
-## I am a JavaEE Developer(OCA-8) && FullStack Developer
+## I am a Java Developer(OCA-8) && FullStack Developer
 
 ### My portfolio website (click) => https://mert1980.github.io/Mert_Portfolio/
 
