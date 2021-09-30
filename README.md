@@ -1,12 +1,11 @@
 # Hi there 👋 I am Mert! 
 
-## I am a Java Developer(OCA-8) && FullStack Developer
+## I am a Java Developer
 
 ### My portfolio website (click) => https://mert1980.github.io/Mert_Portfolio/
 
 ### 🔭 I’m currently working on Fooda (Open-source Project)
 - 🥅 2021 Goals: Contribute more to open source projects and pass Java OCP-11
-- ⚡ Fun fact: I will celebrate my first Java Developer Position in Java Island drinking original Java Koffie ;)
 
 ![](https://komarev.com/ghpvc/?username=Mert1980)
 
