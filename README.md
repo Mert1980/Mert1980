@@ -2,8 +2,6 @@
 
 ## I am a Java Developer
 
-### My portfolio website (click) => https://mert1980.github.io/Mert_Portfolio/
-
 ### 🔭 I’m currently working on Fooda (Open-source Project)
 - 🥅 2021 Goals: Contribute more to open source projects and pass Java OCP-11
 
