@@ -1,9 +1,6 @@
 # Hi there 👋 I am Mert! 
 
-## I am a Java Developer
-
-### 🔭 I’m currently working on Fooda (Open-source Project)
-- 🥅 2021 Goals: Contribute more to open source projects and pass Java OCP-11
+## I am a Software Developer | Java - SpringBoot - Angular
 
 ![](https://komarev.com/ghpvc/?username=Mert1980)
 
